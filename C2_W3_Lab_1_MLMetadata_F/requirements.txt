@@ -1,0 +1,5 @@
+ml-metadata==1.11.0
+pip==21.2.4
+session_info==1.0.0
+tensorflow==2.11.0
+tensorflow-data-validation==1.11.0
